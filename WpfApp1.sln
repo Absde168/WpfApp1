@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{1A08DD03-D54A-435D-A26D-E939CC4E3B32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46A80DB1-D7E8-4A4B-A21E-61C10B8F7E41}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A08DD03-D54A-435D-A26D-E939CC4E3B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A08DD03-D54A-435D-A26D-E939CC4E3B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A08DD03-D54A-435D-A26D-E939CC4E3B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A08DD03-D54A-435D-A26D-E939CC4E3B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
